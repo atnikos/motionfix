@@ -113,7 +113,7 @@ Metrics will be printed in stdout.
 
 <div align="center"><h3>Data Setup</h3></center></div>
 
-Then create a directory named `data` and put the babel data and the processed amass data in.
+Then create a directory named `data` and put the MotionFix data in.
 You should end up with a data folder with the structure like this (`tree dirname`):
 
 ```
